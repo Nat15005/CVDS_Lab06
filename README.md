@@ -1,3 +1,8 @@
+# Integrantes
+#### Cristian Javier Alvarez
+
+#### Laura Natalia Rojas
+
 # Despliega mi primera aplicación en Azure
 ## Mi primer despliegue en la nube
 # Parte I - Despliegue app React (frontend) en Azure
