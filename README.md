@@ -1,6 +1,8 @@
 # Integrantes
 #### Cristian Javier Alvarez
 
+#### Laura Natalia Rojas
+
 # Entrega
 https://red-mushroom-0666ddd10.5.azurestaticapps.net
 
@@ -8,7 +10,6 @@ https://wonderful-moss-03055d310.5.azurestaticapps.net
 
 https://cvdsappwebmvc.azurewebsites.net
 
-#### Laura Natalia Rojas
 
 # Despliega mi primera aplicación en Azure
 ## Mi primer despliegue en la nube
