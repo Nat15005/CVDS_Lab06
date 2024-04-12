@@ -4,8 +4,11 @@
 #### Laura Natalia Rojas
 
 # Entrega
-https://red-meadow-01516aa10.5.azurestaticapps.net
-https://employee-mvc.azurewebsites.net
+https://red-mushroom-0666ddd10.5.azurestaticapps.net
+
+https://wonderful-moss-03055d310.5.azurestaticapps.net
+
+https://cvdsappwebmvc.azurewebsites.net
 
 # Despliega mi primera aplicación en Azure
 ## Mi primer despliegue en la nube
